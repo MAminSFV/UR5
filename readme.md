@@ -1,10 +1,10 @@
-M.Amin Safavi
+M.Amin Safavi 
 UR5 Project  
 
 
 Instrustions to Run the Program:
 
-1)Run the following Files:
+1) Run the following Files:
 	--initial.m
 	--Project_UR5.mdl
 	--UR5.ttt
@@ -19,5 +19,5 @@ Instrustions to Run the Program:
 
 
 
-Any Quenstions Contact:
+if you had any quenstions, Contact:
 safavi.m.amin@gmail.com
