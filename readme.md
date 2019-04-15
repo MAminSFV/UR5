@@ -1,5 +1,5 @@
-%%%%%% M.Amin Safavi %%%%%%%
-%%%%%%  UR5 Project  %%%%%%%
+M.Amin Safavi
+UR5 Project  
 
 
 Instrustions to Run the Program:
