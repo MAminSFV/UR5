@@ -19,5 +19,5 @@ Instrustions to Run the Program:
 
 
 
-if you had any quenstions, Contact:
+if you have any quenstions, please contact:
 safavi.m.amin@gmail.com
